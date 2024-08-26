@@ -1,7 +1,11 @@
 # Receipt Processor Challenge
 
 Receipt processor API written in .NET.
+
+
 API can be accessed at `http://localhost:8080`
+
+
 Swagger UI located at `http://localhost:8080/swagger/index.html`
 
 ## Docker compose
